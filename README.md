@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://vk.com/alex_magestik">
+<a href="https://vk.com/">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://twitter.com/">
@@ -17,6 +17,7 @@
 </a>
 
 <br />
+
 
 Привет, меня зовут Александр. Я разработчик баз данных. Изучаю несколько интересных технологий.
 
