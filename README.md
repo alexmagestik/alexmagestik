@@ -1,35 +1,95 @@
-### Hi there 👋
+# 👋 Привет, я Александр.
 
-<br />
+AI Developer / Backend Engineer  
+Специализируюсь на разработке AI-ассистентов и RAG-систем
 
-Привет, меня зовут Александр. 
-Я разработчик баз данных. 
-Изучаю несколько интересных технологий.
+---
 
-<br />
- 
-**Languages and Tools:**  
+## 🚀 Обо мне
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Разрабатываю интеллектуальные системы на базе LLM, которые помогают автоматизировать процессы, работать с данными и усиливать бизнес.
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Спасти мир       
-<!-- TODO-IST:END -->
+Фокус:
+- AI-ассистенты под реальные задачи
+- RAG (Retrieval-Augmented Generation)
+- Backend и API для AI-приложений
+- Prompt Engineering
 
-<!--
-**alexmagestik/alexmagestik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Ключевой проект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Interview Coach (RAG Assistant)
+
+AI-ассистент для подготовки к собеседованиям
+
+**Функциональность:**
+- Анализ вакансий (требования, риски, ожидания)
+- Генерация вопросов (технические, поведенческие, мотивационные)
+- Улучшение ответов по методике STAR
+- Формирование самопрезентации (60–90 секунд)
+
+**Как работает:**
+- RAG-поиск по локальной базе знаний (CSV → ChromaDB)
+- Учет истории диалога
+- Гибкая система промптов (режимы работы)
+
+**Режимы:**
+1. Анализ вакансии  
+2. Генерация вопросов  
+3. Проработка ответов (STAR)  
+4. Самопрезентация  
+
+---
+
+## 🏗 Архитектура
+
+- **Frontend:** Next.js  
+- **Backend:** FastAPI (Python)  
+- **RAG:** ChromaDB (локальная векторная БД)  
+- **LLM:** OpenAI API (эмбеддинги + генерация)  
+- **Data:** CSV knowledge base  
+- **Memory:** локальная история диалога  
+
+---
+
+## ⚙️ Технологии
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+
+---
+
+## 🧩 Что я делаю
+
+- Разработка AI-ассистентов под задачи бизнеса  
+- Построение RAG-систем с вашей базой знаний  
+- Интеграция LLM через API  
+- Автоматизация HR, поддержки и обучения  
+- Быстрый запуск MVP  
+
+---
+
+## 📌 Подход
+
+- Четкая архитектура  
+- Контроль над логикой (без “магии”)  
+- Прозрачные промпты  
+- Масштабируемость  
+- Практическая ценность  
+
+---
+
+## 📫 Контакты
+
+- Telegram: https://t.me/prompt_alexu  
+- GitHub: https://github.com/alexmagestik  
+
+---
+
+## 💡 Сейчас открыт к проектам
+
+Готов обсудить задачу, предложить архитектуру и реализовать решение под ключ 🚀
